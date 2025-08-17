@@ -149,26 +149,54 @@ flutter build ios --release
 
 ## 📱 Screenshots
 
-## 📱 Screenshots
-
 ### Authentication Screens
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <img src="assets/ui/LogIn.png" alt="Login Screen" width="250"/>
-  <img src="assets/ui/Registration.png" alt="Registration Screen" width="250"/>
-  <img src="assets/ui/splash_screen.png" alt="Splash Screen" width="250"/>
+  <div style="text-align: center;">
+    <img src="assets/ui/LogIn.png" alt="Login Screen" width="250"/>
+    <p>Login Screen</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/ui/Registration.png" alt="Registration Screen" width="250"/>
+    <p>Registration Screen</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/ui/splash_screen.png" alt="Splash Screen" width="250"/>
+    <p>Splash Screen</p>
+  </div>
 </div>
 
 ### Main App Screens
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-  <img src="assets/ui/medicine_list.png" alt="Medicine List" width="250"/>
-  <img src="assets/ui/medicine_details.png" alt="Medicine Details" width="250"/>
-  <img src="assets/ui/cart.png" alt="Shopping Cart" width="250"/>
-  <img src="assets/ui/Checkout.png" alt="Checkout Screen" width="250"/>
-  <img src="assets/ui/order_list.png" alt="Orders Screen" width="250"/>
-  <img src="assets/ui/order_details.png" alt="Order Details" width="250"/>
-  <img src="assets/ui/profile.png" alt="Profile Screen" width="250"/>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="text-align: center;">
+    <img src="assets/ui/medicine_list.png" alt="Medicine List" width="250"/>
+    <p>Medicine List</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/ui/medicine_details.png" alt="Medicine Details" width="250"/>
+    <p>Medicine Details</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/ui/cart.png" alt="Shopping Cart" width="250"/>
+    <p>Shopping Cart</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/ui/Checkout.png" alt="Checkout Screen" width="250"/>
+    <p>Checkout Screen</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/ui/order_list.png" alt="Orders Screen" width="250"/>
+    <p>Orders Screen</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/ui/order_details.png" alt="Order Details" width="250"/>
+    <p>Order Details</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/ui/profile.png" alt="Profile Screen" width="250"/>
+    <p>Profile Screen</p>
+  </div>
 </div>
 ## 🔧 Configuration
 
