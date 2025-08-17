@@ -146,58 +146,53 @@ flutter build appbundle --release
 ```bash
 flutter build ios --release
 ```
-
 ## 📱 Screenshots
 
 ### Authentication Screens
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="text-align: center;">
-    <img src="assets/ui/LogIn.png" alt="Login Screen" width="250"/>
-    <p>Login Screen</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/ui/Registration.png" alt="Registration Screen" width="250"/>
-    <p>Registration Screen</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/ui/splash_screen.png" alt="Splash Screen" width="250"/>
-    <p>Splash Screen</p>
-  </div>
-</div>
+<p align="center">
+  <img src="assets/ui/LogIn.png" alt="Login Screen" width="250"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/ui/Registration.png" alt="Registration Screen" width="250"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/ui/splash_screen.png" alt="Splash Screen" width="250"/>
+</p>
+<p align="center">
+  <em>Login Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Registration Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Splash Screen</em>
+</p>
 
 ### Main App Screens
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-  <div style="text-align: center;">
-    <img src="assets/ui/medicine_list.png" alt="Medicine List" width="250"/>
-    <p>Medicine List</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/ui/medicine_details.png" alt="Medicine Details" width="250"/>
-    <p>Medicine Details</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/ui/cart.png" alt="Shopping Cart" width="250"/>
-    <p>Shopping Cart</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/ui/Checkout.png" alt="Checkout Screen" width="250"/>
-    <p>Checkout Screen</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/ui/order_list.png" alt="Orders Screen" width="250"/>
-    <p>Orders Screen</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/ui/order_details.png" alt="Order Details" width="250"/>
-    <p>Order Details</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/ui/profile.png" alt="Profile Screen" width="250"/>
-    <p>Profile Screen</p>
-  </div>
-</div>
+<p align="center">
+  <img src="assets/ui/medicine_list.png" alt="Medicine List" width="250"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/ui/medicine_details.png" alt="Medicine Details" width="250"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/ui/cart.png" alt="Shopping Cart" width="250"/>
+</p>
+<p align="center">
+  <em>Medicine List</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Medicine Details</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Shopping Cart</em>
+</p>
+
+<p align="center">
+  <img src="assets/ui/Checkout.png" alt="Checkout Screen" width="250"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/ui/order_list.png" alt="Orders Screen" width="250"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/ui/order_details.png" alt="Order Details" width="250"/>
+</p>
+<p align="center">
+  <em>Checkout Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Orders Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Order Details</em>
+</p>
+
+<p align="center">
+  <img src="assets/ui/profile.png" alt="Profile Screen" width="250"/>
+</p>
+<p align="center">
+  <em>Profile Screen</em>
+</p>
+
+
 ## 🔧 Configuration
 
 ### API Configuration
