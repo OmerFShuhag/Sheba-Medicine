@@ -149,20 +149,27 @@ flutter build ios --release
 
 ## 📱 Screenshots
 
+## 📱 Screenshots
+
 ### Authentication Screens
-- [Login Screen](assets/ui/LogIn.png)
-- [Registration Screen](assets/ui/Registration.png)
-- [Splash Screen](assets/ui/splash_screen.png)
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="assets/ui/LogIn.png" alt="Login Screen" width="250"/>
+  <img src="assets/ui/Registration.png" alt="Registration Screen" width="250"/>
+  <img src="assets/ui/splash_screen.png" alt="Splash Screen" width="250"/>
+</div>
 
 ### Main App Screens
-- [Home Screen (Medicine List)](assets/ui/medicine_list.png)
-- [Medicine Detail Screen](assets/ui/medicine_details.png)
-- [Shopping Cart Screen](assets/ui/cart.png)
-- [Checkout Screen](assets/ui/Checkout.png)
-- [Orders Screen](assets/ui/order_list.png)
-- [Order Details Screen](assets/ui/order_details.png)
-- [Profile Screen](assets/ui/profile.png)
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+  <img src="assets/ui/medicine_list.png" alt="Medicine List" width="250"/>
+  <img src="assets/ui/medicine_details.png" alt="Medicine Details" width="250"/>
+  <img src="assets/ui/cart.png" alt="Shopping Cart" width="250"/>
+  <img src="assets/ui/Checkout.png" alt="Checkout Screen" width="250"/>
+  <img src="assets/ui/order_list.png" alt="Orders Screen" width="250"/>
+  <img src="assets/ui/order_details.png" alt="Order Details" width="250"/>
+  <img src="assets/ui/profile.png" alt="Profile Screen" width="250"/>
+</div>
 ## 🔧 Configuration
 
 ### API Configuration
