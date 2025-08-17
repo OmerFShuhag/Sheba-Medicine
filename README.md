@@ -151,14 +151,15 @@ flutter build ios --release
 ### Authentication Screens
 
 <p align="center">
+  <img src="assets/ui/splash_screen.png" alt="Splash Screen" width="250"/>&nbsp;&nbsp;&nbsp;
   <img src="assets/ui/LogIn.png" alt="Login Screen" width="250"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/ui/Registration.png" alt="Registration Screen" width="250"/>&nbsp;&nbsp;&nbsp;
-  <img src="assets/ui/splash_screen.png" alt="Splash Screen" width="250"/>
+  <img src="assets/ui/Registration.png" alt="Registration Screen" width="250"/>
 </p>
 <p align="center">
+  <em>Splash Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <em>Login Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em>Registration Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em>Splash Screen</em>
+  <em>Registration Screen</em>
+  
 </p>
 
 ### Main App Screens
@@ -169,7 +170,7 @@ flutter build ios --release
   <img src="assets/ui/cart.png" alt="Shopping Cart" width="250"/>
 </p>
 <p align="center">
-  <em>Medicine List</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Medicine List</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <em>Medicine Details</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <em>Shopping Cart</em>
 </p>
