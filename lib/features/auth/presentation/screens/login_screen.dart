@@ -42,6 +42,9 @@ class _LoginScreenState extends State<LoginScreen> {
         ),
       );
     }
+    else {
+      Navigator.of(context).pushReplacementNamed('/home');
+    }
   }
 
   @override

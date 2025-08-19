@@ -48,6 +48,9 @@ class ShebaMedicineApp extends StatelessWidget {
           ),
           '/login': (context) => const LoginScreen(),
           '/register': (context) => const RegisterScreen(),
+          '/home': (context) => const HomeScreen(),
+          '/medicine': (context) => const HomeScreen(),
+          
 
           '/cart': (context) => const CartScreen(),
           '/checkout': (context) => const CheckoutScreen(),
